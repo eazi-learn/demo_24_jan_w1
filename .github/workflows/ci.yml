@@ -1,4 +1,4 @@
-name: CI pipeline 24 Jan
+name: CI pipeline 15 Feb
 
 on:
   push:
